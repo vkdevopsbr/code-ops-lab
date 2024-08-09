@@ -1,0 +1,16 @@
+{
+  "name": "code-ops-lab",
+  "version": "1.0.0",
+  "description": "Meu laboratório de aprendizado para explorar programação e práticas DevOps, focado em me tornar um profissional mais completo, unindo código e operações.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
